@@ -11,7 +11,9 @@ We are a team of U.S. engineers and analysts specialized in blockchain technolog
 
 [<img align="left" alt="Belchy | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Belchy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Belchy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br />
 
 [email]: mailto:contact@belchy.com
 [telegram]: https://t.me/belchy_audits
+[medium]: medium.belchy.com
