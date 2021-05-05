@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, we are Belchy.
 
-<!--
-**Belchy/Belchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a team of U.S. engineers and analysts specialized in blockchain technology and business analytics with wide experience on crypto market.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Services we provide:
+- ⛏ Free Smart Contract security checks.
+- 🛠 Full Smart Contract security audits.
+
+### Connect with us:
+
+[<img align="left" alt="Belchy | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Belchy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
+
+[email]: mailto:contact@belchy.com
+[telegram]: https://t.me/belchy_audits
